@@ -1,0 +1,431 @@
+{
+    "topic": [
+      {
+        "topic_num": "0",
+        "words": [
+          "yang",
+          "dan",
+          "pak"
+        ]
+      },
+      {
+        "topic_num": "1",
+        "words": [
+          "Ganjar",
+          "dengan",
+          "bilang"
+        ]
+      },
+      {
+        "topic_num": "2",
+        "words": [
+          "Komitmen",
+          "bilang",
+          "#BersamaPrabowo"
+        ]
+      },
+      {
+        "topic_num": "3",
+        "words": [
+          "dengan",
+          "Ganjar",
+          "persen."
+        ]
+      },
+      {
+        "topic_num": "4",
+        "words": [
+          "pak",
+          "Wow..",
+          "@Paltiwest"
+        ]
+      }
+    ],
+    "topic_data": [
+      {
+        "x": 64.29758575596595,
+        "y": -22.58856178738334,
+        "Dominant_Topic": 0,
+        "Topic_Perc_Contrib": 0.9648640751838684,
+        "Text": "@NarasiNewsroom Pak ganjar sosok yang luar biasa penuh motivasi,sederhana,merakyat dan juga selalu mengutamakan sejarah ,all in pak ganjar🔥",
+        "Like": 200,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 1000
+      },
+      {
+        "x": 12.490586935636667,
+        "y": -1.1100818017301948,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.9648270010948181,
+        "Text": "@VIVAcoid Ganjar meraih elektabilitas tertinggi dengan 34,1 persen. Kemudian disusul dengan Prabowo yang memiliki 31,3 persen, dan Anies dengan 19,2 persen.\n\nGanjar Menang",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      },
+      {
+        "x": -20.929256240865676,
+        "y": -136.58296202002504,
+        "Dominant_Topic": 4,
+        "Topic_Perc_Contrib": 0.9672662019729614,
+        "Text": "@Paltiwest Berarti anda berkata bahwa pak @jokowi bohong? JD hanya untuk menutupi? Wow.. pak Jokowi sengaja menutupi aib pak prabowo guys.. fantastis😀😀🫢. Gimana nih min @Gerindra",
+        "Like": 1100,
+        "Reply": 20,
+        "Retweets": 210,
+        "Views": 3300
+      },
+      {
+        "x": 1.1425842585835488,
+        "y": 21.536108080999973,
+        "Dominant_Topic": 2,
+        "Topic_Perc_Contrib": 0.953442394733429,
+        "Text": "Dukungan Kuat Berdatangan Berkat Komitmen Prabowo Kedepankan Persatuan untuk Rakyat - Tribun Jabar #Jokowinomics #MenataMasaDepan #BersamaPrabowo https://t.co/CrDJQT0que",
+        "Like": 1001,
+        "Reply": 210,
+        "Retweets": 10,
+        "Views": 3001
+      },
+      {
+        "x": -26.67409140816845,
+        "y": 63.47954886872692,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.9608683586120605,
+        "Text": "@BungkusTukang bilang aja acara relawan ganjar. Gak usah bilang alumni Perguruan Tinggi cuman buat nutupin  berita Ganjar di UI",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      },
+      {
+        "x": 79.46458161506453,
+        "y": -8.542548278460236,
+        "Dominant_Topic": 0,
+        "Topic_Perc_Contrib": 0.9648640751838684,
+        "Text": "@NarasiNewsroom Pak ganjar sosok yang luar biasa penuh motivasi,sederhana,merakyat dan juga selalu mengutamakan sejarah ,all in pak ganjar🔥",
+        "Like": 200,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 1000
+      },
+      {
+        "x": -30.912246152882634,
+        "y": -33.84693641785123,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.9647772312164307,
+        "Text": "@VIVAcoid Ganjar meraih elektabilitas tertinggi dengan 34,1 persen. Kemudian disusul dengan Prabowo yang memiliki 31,3 persen, dan Anies dengan 19,2 persen.\n\nGanjar Menang",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      },
+      {
+        "x": 14.096416191093017,
+        "y": 306.17083624748255,
+        "Dominant_Topic": 4,
+        "Topic_Perc_Contrib": 0.9672662019729614,
+        "Text": "@Paltiwest Berarti anda berkata bahwa pak @jokowi bohong? JD hanya untuk menutupi? Wow.. pak Jokowi sengaja menutupi aib pak prabowo guys.. fantastis😀😀🫢. Gimana nih min @Gerindra",
+        "Like": 1100,
+        "Reply": 20,
+        "Retweets": 210,
+        "Views": 3300
+      },
+      {
+        "x": 43.30027971549927,
+        "y": 14.084192415219626,
+        "Dominant_Topic": 2,
+        "Topic_Perc_Contrib": 0.9534597992897034,
+        "Text": "Dukungan Kuat Berdatangan Berkat Komitmen Prabowo Kedepankan Persatuan untuk Rakyat - Tribun Jabar #Jokowinomics #MenataMasaDepan #BersamaPrabowo https://t.co/CrDJQT0que",
+        "Like": 1001,
+        "Reply": 210,
+        "Retweets": 10,
+        "Views": 3001
+      },
+      {
+        "x": 100.33466873619818,
+        "y": 1.1630025405943436,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.9608632326126099,
+        "Text": "@BungkusTukang bilang aja acara relawan ganjar. Gak usah bilang alumni Perguruan Tinggi cuman buat nutupin  berita Ganjar di UI",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      },
+      {
+        "x": 60.197906461643015,
+        "y": -8.815354744970787,
+        "Dominant_Topic": 0,
+        "Topic_Perc_Contrib": 0.9648640155792236,
+        "Text": "@NarasiNewsroom Pak ganjar sosok yang luar biasa penuh motivasi,sederhana,merakyat dan juga selalu mengutamakan sejarah ,all in pak ganjar🔥",
+        "Like": 200,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 1000
+      },
+      {
+        "x": -51.43021938325175,
+        "y": 54.034052599161726,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.9647886157035828,
+        "Text": "@VIVAcoid Ganjar meraih elektabilitas tertinggi dengan 34,1 persen. Kemudian disusul dengan Prabowo yang memiliki 31,3 persen, dan Anies dengan 19,2 persen.\n\nGanjar Menang",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      },
+      {
+        "x": 164.4763406622522,
+        "y": -46.88661710444748,
+        "Dominant_Topic": 4,
+        "Topic_Perc_Contrib": 0.9672662019729614,
+        "Text": "@Paltiwest Berarti anda berkata bahwa pak @jokowi bohong? JD hanya untuk menutupi? Wow.. pak Jokowi sengaja menutupi aib pak prabowo guys.. fantastis😀😀🫢. Gimana nih min @Gerindra",
+        "Like": 1100,
+        "Reply": 20,
+        "Retweets": 210,
+        "Views": 3300
+      },
+      {
+        "x": -2.7367580836290815,
+        "y": 33.944634676458385,
+        "Dominant_Topic": 2,
+        "Topic_Perc_Contrib": 0.9534522294998169,
+        "Text": "Dukungan Kuat Berdatangan Berkat Komitmen Prabowo Kedepankan Persatuan untuk Rakyat - Tribun Jabar #Jokowinomics #MenataMasaDepan #BersamaPrabowo https://t.co/CrDJQT0que",
+        "Like": 1001,
+        "Reply": 210,
+        "Retweets": 10,
+        "Views": 3001
+      },
+      {
+        "x": -39.96987197033379,
+        "y": -34.15996426841354,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.960862398147583,
+        "Text": "@BungkusTukang bilang aja acara relawan ganjar. Gak usah bilang alumni Perguruan Tinggi cuman buat nutupin  berita Ganjar di UI",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      },
+      {
+        "x": 49.82572924419041,
+        "y": -21.95698330797643,
+        "Dominant_Topic": 0,
+        "Topic_Perc_Contrib": 0.9648640155792236,
+        "Text": "@NarasiNewsroom Pak ganjar sosok yang luar biasa penuh motivasi,sederhana,merakyat dan juga selalu mengutamakan sejarah ,all in pak ganjar🔥",
+        "Like": 200,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 1000
+      },
+      {
+        "x": -8.771462292533622,
+        "y": 32.26499098726792,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.9647886753082275,
+        "Text": "@VIVAcoid Ganjar meraih elektabilitas tertinggi dengan 34,1 persen. Kemudian disusul dengan Prabowo yang memiliki 31,3 persen, dan Anies dengan 19,2 persen.\n\nGanjar Menang",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      },
+      {
+        "x": -190.93389250401947,
+        "y": -15.924540647478027,
+        "Dominant_Topic": 4,
+        "Topic_Perc_Contrib": 0.9672662019729614,
+        "Text": "@Paltiwest Berarti anda berkata bahwa pak @jokowi bohong? JD hanya untuk menutupi? Wow.. pak Jokowi sengaja menutupi aib pak prabowo guys.. fantastis😀😀🫢. Gimana nih min @Gerindra",
+        "Like": 1100,
+        "Reply": 20,
+        "Retweets": 210,
+        "Views": 3300
+      },
+      {
+        "x": -11.782947865184713,
+        "y": -24.320706204780578,
+        "Dominant_Topic": 2,
+        "Topic_Perc_Contrib": 0.9534412622451782,
+        "Text": "Dukungan Kuat Berdatangan Berkat Komitmen Prabowo Kedepankan Persatuan untuk Rakyat - Tribun Jabar #Jokowinomics #MenataMasaDepan #BersamaPrabowo https://t.co/CrDJQT0que",
+        "Like": 1001,
+        "Reply": 210,
+        "Retweets": 10,
+        "Views": 3001
+      },
+      {
+        "x": -2.5025170753821637,
+        "y": 8.833319781878256,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.9608647227287292,
+        "Text": "@BungkusTukang bilang aja acara relawan ganjar. Gak usah bilang alumni Perguruan Tinggi cuman buat nutupin  berita Ganjar di UI",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      },
+      {
+        "x": -119.56371544153365,
+        "y": 39.36572759657997,
+        "Dominant_Topic": 0,
+        "Topic_Perc_Contrib": 0.9648640751838684,
+        "Text": "@NarasiNewsroom Pak ganjar sosok yang luar biasa penuh motivasi,sederhana,merakyat dan juga selalu mengutamakan sejarah ,all in pak ganjar🔥",
+        "Like": 200,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 1000
+      },
+      {
+        "x": 7.597191283374421,
+        "y": 10.459948332014196,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.9648211598396301,
+        "Text": "@VIVAcoid Ganjar meraih elektabilitas tertinggi dengan 34,1 persen. Kemudian disusul dengan Prabowo yang memiliki 31,3 persen, dan Anies dengan 19,2 persen.\n\nGanjar Menang",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      },
+      {
+        "x": 11.494911444649896,
+        "y": -135.72369459405647,
+        "Dominant_Topic": 4,
+        "Topic_Perc_Contrib": 0.9672662019729614,
+        "Text": "@Paltiwest Berarti anda berkata bahwa pak @jokowi bohong? JD hanya untuk menutupi? Wow.. pak Jokowi sengaja menutupi aib pak prabowo guys.. fantastis😀😀🫢. Gimana nih min @Gerindra",
+        "Like": 1100,
+        "Reply": 20,
+        "Retweets": 210,
+        "Views": 3300
+      },
+      {
+        "x": 27.9877526624381,
+        "y": 14.049240575990247,
+        "Dominant_Topic": 2,
+        "Topic_Perc_Contrib": 0.953463613986969,
+        "Text": "Dukungan Kuat Berdatangan Berkat Komitmen Prabowo Kedepankan Persatuan untuk Rakyat - Tribun Jabar #Jokowinomics #MenataMasaDepan #BersamaPrabowo https://t.co/CrDJQT0que",
+        "Like": 1001,
+        "Reply": 210,
+        "Retweets": 10,
+        "Views": 3001
+      },
+      {
+        "x": -0.4384821801245764,
+        "y": -21.749160732329933,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.9608621597290039,
+        "Text": "@BungkusTukang bilang aja acara relawan ganjar. Gak usah bilang alumni Perguruan Tinggi cuman buat nutupin  berita Ganjar di UI",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      },
+      {
+        "x": -141.73661700522885,
+        "y": 49.246821213272646,
+        "Dominant_Topic": 0,
+        "Topic_Perc_Contrib": 0.9648640751838684,
+        "Text": "@NarasiNewsroom Pak ganjar sosok yang luar biasa penuh motivasi,sederhana,merakyat dan juga selalu mengutamakan sejarah ,all in pak ganjar🔥",
+        "Like": 200,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 1000
+      },
+      {
+        "x": -28.43838572093087,
+        "y": 18.066293002999544,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.964799165725708,
+        "Text": "@VIVAcoid Ganjar meraih elektabilitas tertinggi dengan 34,1 persen. Kemudian disusul dengan Prabowo yang memiliki 31,3 persen, dan Anies dengan 19,2 persen.\n\nGanjar Menang",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      },
+      {
+        "x": 3.4605386555489623,
+        "y": -91.89801722066521,
+        "Dominant_Topic": 4,
+        "Topic_Perc_Contrib": 0.9672662019729614,
+        "Text": "@Paltiwest Berarti anda berkata bahwa pak @jokowi bohong? JD hanya untuk menutupi? Wow.. pak Jokowi sengaja menutupi aib pak prabowo guys.. fantastis😀😀🫢. Gimana nih min @Gerindra",
+        "Like": 1100,
+        "Reply": 20,
+        "Retweets": 210,
+        "Views": 3300
+      },
+      {
+        "x": 26.70764873929942,
+        "y": -13.594835043357648,
+        "Dominant_Topic": 2,
+        "Topic_Perc_Contrib": 0.9534485340118408,
+        "Text": "Dukungan Kuat Berdatangan Berkat Komitmen Prabowo Kedepankan Persatuan untuk Rakyat - Tribun Jabar #Jokowinomics #MenataMasaDepan #BersamaPrabowo https://t.co/CrDJQT0que",
+        "Like": 1001,
+        "Reply": 210,
+        "Retweets": 10,
+        "Views": 3001
+      },
+      {
+        "x": -71.56558443241701,
+        "y": 31.746524728913272,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.9608640670776367,
+        "Text": "@BungkusTukang bilang aja acara relawan ganjar. Gak usah bilang alumni Perguruan Tinggi cuman buat nutupin  berita Ganjar di UI",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      },
+      {
+        "x": 16.866583623085138,
+        "y": 19.029630192629728,
+        "Dominant_Topic": 0,
+        "Topic_Perc_Contrib": 0.9648640751838684,
+        "Text": "@NarasiNewsroom Pak ganjar sosok yang luar biasa penuh motivasi,sederhana,merakyat dan juga selalu mengutamakan sejarah ,all in pak ganjar🔥",
+        "Like": 200,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 1000
+      },
+      {
+        "x": -23.31943839818859,
+        "y": -76.23954894315337,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.9648235440254211,
+        "Text": "@VIVAcoid Ganjar meraih elektabilitas tertinggi dengan 34,1 persen. Kemudian disusul dengan Prabowo yang memiliki 31,3 persen, dan Anies dengan 19,2 persen.\n\nGanjar Menang",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      },
+      {
+        "x": 88.85286086711643,
+        "y": -1.153883879740166,
+        "Dominant_Topic": 4,
+        "Topic_Perc_Contrib": 0.9672645330429077,
+        "Text": "@Paltiwest Berarti anda berkata bahwa pak @jokowi bohong? JD hanya untuk menutupi? Wow.. pak Jokowi sengaja menutupi aib pak prabowo guys.. fantastis😀😀🫢. Gimana nih min @Gerindra",
+        "Like": 1100,
+        "Reply": 20,
+        "Retweets": 210,
+        "Views": 3300
+      },
+      {
+        "x": 34.49724308514744,
+        "y": -5.510394340108594,
+        "Dominant_Topic": 2,
+        "Topic_Perc_Contrib": 0.9534403681755066,
+        "Text": "Dukungan Kuat Berdatangan Berkat Komitmen Prabowo Kedepankan Persatuan untuk Rakyat - Tribun Jabar #Jokowinomics #MenataMasaDepan #BersamaPrabowo https://t.co/CrDJQT0que",
+        "Like": 1001,
+        "Reply": 210,
+        "Retweets": 10,
+        "Views": 3001
+      },
+      {
+        "x": -35.385923782111746,
+        "y": -16.870080503261054,
+        "Dominant_Topic": 1,
+        "Topic_Perc_Contrib": 0.9608678221702576,
+        "Text": "@BungkusTukang bilang aja acara relawan ganjar. Gak usah bilang alumni Perguruan Tinggi cuman buat nutupin  berita Ganjar di UI",
+        "Like": 100,
+        "Reply": 20,
+        "Retweets": 10,
+        "Views": 300
+      }
+    ]
+  }
